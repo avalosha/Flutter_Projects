@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532732897325",
+    "project_id": "flash-chat-completed-d44ad",
+    "storage_bucket": "flash-chat-completed-d44ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532732897325:android:a4c38b2320a34006db30a4",
+        "android_client_info": {
+          "package_name": "com.sferea.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeB8U059KbEe-l09WWPsInJfIlnAc_5Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
